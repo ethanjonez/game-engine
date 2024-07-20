@@ -1,2 +1,2 @@
-# game-engie
+# game-engine
 An attempt to build my own game-engine for a neat little business idea
